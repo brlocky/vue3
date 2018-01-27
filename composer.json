@@ -1,0 +1,32 @@
+{
+  "name": "rs/vue3",
+  "type": "typo3-cms-extension",
+  "description": "Vue Content Elements for TYPO3 with SSR",
+  "homepage": "http://turbinekreuzberg.com",
+  "license": [],
+  "keywords": ["TYPO3 CMS"],
+  "require": {
+    "typo3/cms": "^8.7",
+    "php": ">=7.1.0"
+  },
+  "require-dev": {
+  },
+  "config": {
+    "bin-dir": "bin"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "1.x-dev"
+    }
+  },
+  "autoload": {
+    "psr-4": {
+      "Rs\\Vue3\\": "Classes/",
+      "Rs\\Vue3\\Tests\\": "Tests/"
+    }
+  },
+  "replace": {
+    "vue3": "self.version",
+    "typo3-ter/vue3": "self.version"
+  }
+}

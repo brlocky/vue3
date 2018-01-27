@@ -1,0 +1,13 @@
+mod.wizards.newContentElement.wizardItems.common {
+    elements {
+        vue3 {
+            iconIdentifier = content-textpic
+            title = Vue3 Component
+            description = Add a vue component to your page
+            tt_content_defValues {
+                CType = vue3
+            }
+        }
+    }
+    show := addToList(vue3)
+}
