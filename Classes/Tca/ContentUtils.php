@@ -1,6 +1,6 @@
 <?php
 
-namespace Rs\Vue3\Tca;
+namespace RozbehSharahi\Vue3\Tca;
 
 class ContentUtils
 {

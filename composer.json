@@ -1,5 +1,5 @@
 {
-  "name": "rs/vue3",
+  "name": "rozbehsharahi/vue3",
   "type": "typo3-cms-extension",
   "description": "Vue Content Elements for TYPO3 with SSR",
   "homepage": "http://turbinekreuzberg.com",
@@ -21,8 +21,8 @@
   },
   "autoload": {
     "psr-4": {
-      "Rs\\Vue3\\": "Classes/",
-      "Rs\\Vue3\\Tests\\": "Tests/"
+      "RozbehSharahi\\Vue3\\": "Classes/",
+      "RozbehSharahi\\Vue3\\Tests\\": "Tests/"
     }
   },
   "replace": {

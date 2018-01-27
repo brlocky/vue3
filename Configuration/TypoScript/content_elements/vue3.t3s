@@ -4,7 +4,7 @@ tt_content.vue3 {
     extensionName = Vue3
     pluginName = Vue3
     controllerName = Vue3
-    vendorName = Rs
+    vendorName = RozbehSharahi
     switchableControllerActions {
         Vue3 {
             1 = boostrap

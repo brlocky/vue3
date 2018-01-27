@@ -1,6 +1,6 @@
 <?php
 
-namespace Rs\Vue3;
+namespace RozbehSharahi\Vue3;
 
 use TYPO3\CMS\Extbase\Mvc\Controller\ActionController;
 

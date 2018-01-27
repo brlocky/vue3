@@ -1,6 +1,6 @@
 <?php
 
-use Rs\Vue3\Tca\ContentUtils;
+use RozbehSharahi\Vue3\Tca\ContentUtils;
 
 \TYPO3\CMS\Core\Utility\ExtensionManagementUtility::addPlugin(
     [
