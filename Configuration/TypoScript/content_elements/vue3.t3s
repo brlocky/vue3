@@ -1,0 +1,13 @@
+tt_content.vue3 = USER
+tt_content.vue3 {
+    userFunc = TYPO3\CMS\Extbase\Core\Bootstrap->run
+    extensionName = Vue3
+    pluginName = Vue3
+    controllerName = Vue3
+    vendorName = Rs
+    switchableControllerActions {
+        Vue3 {
+            1 = boostrap
+        }
+    }
+}

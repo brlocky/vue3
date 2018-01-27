@@ -1,7 +1,1 @@
-<INCLUDE_TYPOSCRIPT: source="DIR:EXT:sk/Configuration/Page/Setup/content_elements/" extensions="t3s">
-
-# Page create default permissions
-TCEMAIN {
-    permissions.user = show, editcontent, edit, new, delete
-    permissions.group = show, editcontent, edit, new, delete
-}
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:vue3/Configuration/Page/content_elements/" extensions="t3s">

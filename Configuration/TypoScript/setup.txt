@@ -1,0 +1,1 @@
+<INCLUDE_TYPOSCRIPT: source="DIR:EXT:vue3/Configuration/TypoScript/content_elements/" extensions="t3s">

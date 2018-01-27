@@ -1,0 +1,26 @@
+<T3DataStructure>
+    <sheets>
+        <general>
+            <ROOT>
+                <type>array</type>
+                <el>
+                    <settings.component>
+                        <TCEforms>
+                            <label>Vue Component</label>
+                            <config>
+                                <type>Select</type>
+                                <renderType>selectSingle</renderType>
+                                <items type="array">
+                                    <numIndex index="0" type="array">
+                                        <numIndex index="0">Hello World</numIndex>
+                                        <numIndex index="1">hello-world</numIndex>
+                                    </numIndex>
+                                </items>
+                            </config>
+                        </TCEforms>
+                    </settings.component>
+                </el>
+            </ROOT>
+        </general>
+    </sheets>
+</T3DataStructure>
