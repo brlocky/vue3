@@ -3,7 +3,7 @@
 namespace RozbehSharahi\Vue3\Controller;
 
 use TYPO3\CMS\Extbase\Mvc\Controller\ActionController;
-use Vtm\Sk\Vue3\HelloWorldComponent;
+use Vtm\Company\Vue3\HelloWorldComponent;
 
 class Vue3Controller extends ActionController
 {
