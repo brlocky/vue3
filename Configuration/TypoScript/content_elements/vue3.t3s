@@ -7,7 +7,7 @@ tt_content.vue3 {
     vendorName = RozbehSharahi
     switchableControllerActions {
         Vue3 {
-            1 = boostrap
+            1 = bootstrap
         }
     }
 }

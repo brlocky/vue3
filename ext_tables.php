@@ -5,9 +5,3 @@
     "Configuration/TypoScript",
     "Vue3"
 );
-
-\TYPO3\CMS\Extbase\Utility\ExtensionUtility::registerPlugin(
-    'vue3',
-    'Vue3',
-    'Vue3 Component'
-);

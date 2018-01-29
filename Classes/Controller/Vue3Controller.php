@@ -1,8 +1,9 @@
 <?php
 
-namespace RozbehSharahi\Vue3;
+namespace RozbehSharahi\Vue3\Controller;
 
 use TYPO3\CMS\Extbase\Mvc\Controller\ActionController;
+use Vtm\Sk\Vue3\HelloWorldComponent;
 
 class Vue3Controller extends ActionController
 {
@@ -11,7 +12,8 @@ class Vue3Controller extends ActionController
      */
     public function bootstrapAction()
     {
-        return 'Hello World';
+        $component = new HelloWorldComponent();
+        return $component->getTag();
     }
 
 }
